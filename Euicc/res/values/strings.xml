@@ -4,6 +4,7 @@
     SPDX-License-Identifier: Apache-2.0
 -->
 <resources>
-    <string name="sim_illustration_lottie_mappings_json">{\"sim_illustration_lottie_mappings\":[{\"devices\":[\"XQ-DQ72\"],\"illustration_lottie\":\"sim_illustration_lottie_bottom\"}]}</string>
-    <string name="sim_slot_mappings_json">{\"sim-slot-mappings\":[{\"devices\":[\"XQ-DQ72\"],\"esim-slot-ids\":[1],\"psim-slot-ids\":[0]}]}</string>
+    <string name="carrier_list_json" />
+    <string name="default_smdp_override" />
+    <string name="sim_slot_mappings_json">{ \"sim-slot-mappings\":[ { \"devices\":[\"XQ-CC54\",\"XQ-CC72\",\"XQ-CC44\",\"SO-52C\",\"8G443Y4\",\"SOG07\",\"UAK\",\"A202SO\"], \"esim-slot-ids\":[1], \"psim-slot-ids\":[0] } ] }</string>
 </resources>
